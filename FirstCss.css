@@ -1,0 +1,28 @@
+body{
+  background-color:#93b5e1 ;
+}
+
+/*******************Tag section*******************/
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 8px;
+  width: 4%;
+}
+
+h1,h2,h3{
+  color: #ff5f40;
+}
+
+
+
+/**********************Class section********************/
+
+.hasib{
+  background-color: red;
+}
+
+.circular {
+  border-radius: 100%;
+}
